@@ -1,7 +1,7 @@
 # cgenff_charmm2gmx-Updated-for-NetworkX-3.4.2
 cgenff_charmm2gmx (Updated for NetworkX 3.4.2 and Python 3.12)
 
-#Overview
+# Overview
 
 This repository contains a modified version of the cgenff_charmm2gmx.py script, originally from the [Original Repository](https://github.com/Lemkul-Lab/cgenff_charmm2gmx)
 repository. The script has been updated to ensure compatibility with:
@@ -18,14 +18,14 @@ Ensured compatibility with the latest versions of NetworkX and Python.
 
 Tested on NetworkX 3.4.2 and Python 3.12 to verify proper functionality.
 
-#Installation
+# Installation
 
 To use this updated script, install the required dependencies:
 
 `pip install networkx==3.4.2`
 `pip install numpy # (if required by the script)`
 
-#Usage
+# Usage
 
 Run the script as follows:
 
@@ -33,11 +33,11 @@ Run the script as follows:
 
 For more details on usage, refer to the original Lemkul-Lab documentation.
 
-#Acknowledgments
+# Acknowledgments
 
 This script is based on the original cgenff_charmm2gmx.py from the Lemkul-Lab repository. All credits for the original implementation go to the respective authors.
 
-#License
+# License
 
 Refer to the original repository for licensing details.
 
