@@ -3,8 +3,8 @@ cgenff_charmm2gmx (Updated for NetworkX 3.4.2 and Python 3.12)
 
 # Overview
 
-This repository contains a modified version of the cgenff_charmm2gmx.py script, originally from the [Original Repository](https://github.com/Lemkul-Lab/cgenff_charmm2gmx)
-repository. The script has been updated to ensure compatibility with:
+This repository contains a modified version of the cgenff_charmm2gmx.py script, originally from the [Original Repository](https://github.com/Lemkul-Lab/cgenff_charmm2gmx). 
+The script has been updated to ensure compatibility with:
 
 NetworkX 3.4.2
 
